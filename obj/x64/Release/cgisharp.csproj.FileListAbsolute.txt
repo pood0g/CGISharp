@@ -1,0 +1,7 @@
+C:\tools\git\cgisharp\bin\x64\Release\cgisharp.exe.config
+C:\tools\git\cgisharp\bin\x64\Release\cgisharp.exe
+C:\tools\git\cgisharp\bin\x64\Release\cgisharp.pdb
+C:\tools\git\cgisharp\obj\x64\Release\cgisharp.csproj.AssemblyReference.cache
+C:\tools\git\cgisharp\obj\x64\Release\cgisharp.csproj.CoreCompileInputs.cache
+C:\tools\git\cgisharp\obj\x64\Release\cgisharp.exe
+C:\tools\git\cgisharp\obj\x64\Release\cgisharp.pdb
